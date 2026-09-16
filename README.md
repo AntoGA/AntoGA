@@ -1,16 +1,13 @@
-## Hi there 👋
+### 👋 AI Architect | LLM & Agentic Systems
 
-<!--
-**AntoGA/AntoGA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Проектирую человекоцентричные AI-системы: RAG-пайплайны, многоагентные архитектуры, AI-ассистенты.
 
-Here are some ideas to get you started:
+- 🎓 BS Computer Science (University of Phoenix)
+- 🧠 Психология → HCI, дизайн взаимодействия человек–машина
+- 📚 7 курсов по GenAI: DeepLearning.AI, OpenAI, AWS, IBM, Vanderbilt (2025–2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Стек:** Python · SQL · LangChain · LangGraph · AutoGen · CrewAI · OpenAI API · RAG · Vector DB · MLOps · AWS · Docker
+
+**Интересуюсь:** LLM-архитектурой, агентными системами, UX интеллектуальных продуктов.
+
+📬 [Telegram](@ayndx) · [Email](mailto:dr-md.ru@yandex.ru)
