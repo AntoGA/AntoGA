@@ -1,5 +1,7 @@
 ### 👋 AI Architect | LLM & Agentic Systems
 
+«AI Architect с психологическим бэкграундом — проектирую системы, которым люди доверяют»
+
 Проектирую человекоцентричные AI-системы: RAG-пайплайны, многоагентные архитектуры, AI-ассистенты.
 
 - 🎓 BS Computer Science (University of Phoenix)
