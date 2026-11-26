@@ -12,4 +12,4 @@
 
 **Интересуюсь:** LLM-архитектурой, агентными системами, UX интеллектуальных продуктов.
 
-📬 [Telegram](@ayndx) · [Email](mailto:dr-md.ru@yandex.ru)
+📬 [Telegram](https://t.me/ayndx) · [Email](mailto:dr-md.ru@yandex.ru)
